@@ -6,7 +6,7 @@
 
 Tom Home Assistant es una skill privada desarrollada para integrar Amazon Alexa con una instalación particular de Home Assistant.
 
-Contacto del responsable: **[AÑADIR CORREO ELECTRÓNICO DE CONTACTO]**
+Contacto del responsable: contacto.tomyortega@gmail.com
 
 ## 2. Información utilizada
 
